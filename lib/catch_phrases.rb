@@ -16,8 +16,8 @@ def link
 end
 
 def any_phrase(phrase)
-    phrase = "#{pharse}"
-    puts phrase
+    shout = "#{pharse}"
+    puts shout
 end
 
 any_phrase("Do A Barrel Roll!")
