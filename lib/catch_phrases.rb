@@ -15,3 +15,5 @@ def link
   puts phrase
 end
 
+def any_phrase(phrase)
+  status = ""
