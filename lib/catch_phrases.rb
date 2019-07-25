@@ -18,6 +18,7 @@ end
 def any_phrase(phrase)
     shout = "#{pharse}"
     puts shout
+    shout
 end
 
 any_phrase("Do A Barrel Roll!")
