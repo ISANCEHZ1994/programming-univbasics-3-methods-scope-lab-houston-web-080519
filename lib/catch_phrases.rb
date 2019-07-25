@@ -16,4 +16,6 @@ def link
 end
 
 def any_phrase(phrase)
-  status = ""
+    phrase = "Do A Barrel Roll"
+    puts phrase
+end
